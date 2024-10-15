@@ -7,3 +7,5 @@
 ```console
  pip install -r requirements.txt
 ```
+# Acknowledgment
+My code is inspired from Aurélien Géron's book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"
